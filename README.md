@@ -73,10 +73,10 @@ swiggy-clone/
 **Sanam Bhanu**
 - B.Tech CSE, JNTUH
 - Skills: HTML, CSS, JavaScript, Java, Python, SQL
-- sornambiga frontend structure
+- sornambiga github management
 - annnanya css
 - Sharmila devi research
-- Shivani github management 
+- Shivani testing
 
 ## 📄 License
 This project is created for educational purposes only.
